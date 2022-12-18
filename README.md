@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a Unmanned Traffic Management System.
+- 🔭 I’m currently working on an Unmanned Traffic Management System.
 - 🌱 I’m currently pursuing Masters of Computer Science at Arizona State University.
 - 📫 How to reach me: rrbalaji10@gmail.com
-- ⚡ Fun fact about me: Im lazy, so I find fast ways to get the job done without compromising on quality.
+- ⚡ "The only thing necessary for the triumph of evil is for good men to do nothing." - Edmund Burke.
 
 ![Balaji's github stats](https://github-readme-stats.vercel.app/api?username=noobmasterbala&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
