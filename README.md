@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on IOS App development.
-- 🌱 I’m currently pursuing Masters of Computer Science at Arizona State University.
+- 🔭 I’m currently working on Large Language Models.
+- 🌱 I recently graduated with a Masters of Computer Science from Arizona State University.
 - 📫 How to reach me: rrbalaji10@gmail.com
 - ⚡ "The only thing necessary for the triumph of evil is for good men to do nothing." - Edmund Burke.
 
