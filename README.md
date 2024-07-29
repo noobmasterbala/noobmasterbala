@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 ![Balaji's github stats](https://github-readme-stats.vercel.app/api?username=noobmasterbala&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobmasterbala&theme=dark&show_icons=true)
+![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobmasterbala&count private=true&include all commits=true&theme=dark&show_icons=true)
