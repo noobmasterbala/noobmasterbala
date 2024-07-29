@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rrbalaji10@gmail.com
 - ⚡ "The only thing necessary for the triumph of evil is for good men to do nothing." - Edmund Burke.
 
-![Balaji's github stats](https://github-readme-stats.vercel.app/api?username=noobmasterbala&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobmasterbala&count_private=true&show_icons=true&theme=tokyonight)
