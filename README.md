@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - ⚡ "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
 
-![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobmasterbala&count_private=true&show_icons=true&theme=tokyonight)
+<!--![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobmasterbala&count_private=true&show_icons=true&theme=tokyonight)-->
