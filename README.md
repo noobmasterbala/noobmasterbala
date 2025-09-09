@@ -5,10 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m a Software Developer.
-- 🌱 I recently graduated with a Masters of Computer Science from Arizona State University.
-- 📫 How to reach me: brajagur@asu.edu
-- ⚡ Code is like humor. When you have to explain it, it’s bad.
+🔭 I’m a Software Engineer building distributed systems, scalable UIs, and cloud-native apps.
+
+🎓 M.S. in Computer Science from Arizona State University (GPA: 3.9).
+
+📫 Reach me at brajagur@asu.edu
+
+⚡ I love clean, efficient code—if it needs an explanation, it probably needs a rewrite.
 
 
 <!--![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobmasterbala&count_private=true&show_icons=true&theme=tokyonight)-->
