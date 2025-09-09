@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 ⚡ I love clean, efficient code—if it needs an explanation, it probably needs a rewrite.
 
 
-<!--![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobmasterbala&count_private=true&show_icons=true&theme=tokyonight)-->
+
+
+![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobmasterbala&count_private=true&show_icons=true&theme=tokyonight)
