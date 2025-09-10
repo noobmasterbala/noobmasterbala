@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 
 ⚡ I love clean, efficient code—if it needs an explanation, it probably needs a rewrite.
 
-I recently worked on a [JournalLM project](https://journallm.azurewebsites.net/) — check it out!
+I recently worked on a <a href="https://journallm.azurewebsites.net/" target="_blank">JournalLM project</a> — check it out!
+
 
 
 
